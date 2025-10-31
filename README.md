@@ -1,6 +1,7 @@
 #Download links for each version
 
-##Download Tools：https://www.123865.com/s/GYDmvd-HMX13
+##Download Tools：
+https://www.123865.com/s/GYDmvd-HMX13
 
 ##ColorOS 15.840 download link:
 [ColorOS 15.840](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b8747910cfbf7b3ea7e852a8b6fa3532/component-ota/25/07/14/75a28092ccc947b291856892b258a98d.zip
